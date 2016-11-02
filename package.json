@@ -1,0 +1,18 @@
+{
+  "name": "mock-server",
+  "version": "0.0.1",
+  "description": "just a mock-server (temporary)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "android-gcm": "^0.1.4",
+    "apn": "^1.7.5",
+    "raven": "^0.7.2",
+    "redis": "^0.12.1",
+    "socket.io": "^1.2.1"
+  }
+}

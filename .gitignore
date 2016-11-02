@@ -1,0 +1,6 @@
+node_modules
+cert.pem
+key.pem
+*.pem
+config.js
+yarn.lock

@@ -1,0 +1,13 @@
+module.exports = {
+    gcm: {
+        time_to_live: 86400
+    },
+    sentryDSN: 'http://x:y@localhost:9000/0',
+    apns: {
+        key: ''
+    },
+    redis: {
+      'host': '127.0.0.1',
+      'port': 6379
+    }
+};
